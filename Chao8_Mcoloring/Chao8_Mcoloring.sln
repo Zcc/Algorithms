@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chao8_Mcoloring", "Chao8_Mcoloring.vcproj", "{DBBE5D66-EE62-4EEA-ACA0-3C3B88179EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBE5D66-EE62-4EEA-ACA0-3C3B88179EBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBBE5D66-EE62-4EEA-ACA0-3C3B88179EBB}.Debug|Win32.Build.0 = Debug|Win32
+		{DBBE5D66-EE62-4EEA-ACA0-3C3B88179EBB}.Release|Win32.ActiveCfg = Release|Win32
+		{DBBE5D66-EE62-4EEA-ACA0-3C3B88179EBB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
